@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Inventory Management",
+  "description": "A local-first physical quantity restaurant inventory tracking application with multi-language layout, A4 reporting, and strict local synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
